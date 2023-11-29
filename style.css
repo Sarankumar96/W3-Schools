@@ -1,0 +1,180 @@
+*{
+padding:0;
+margin:0;
+}
+
+.abc{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding:5px;
+	background-image:linear-gradient(to right,DodgerBlue,pink,white);
+	
+}
+
+.abc img{
+	height:80px;
+	width:80px;
+}
+.xyz{
+display:flex;
+justify-content:space-between;
+background-color:Green;
+height:40px;
+align-items:center;
+padding:5px;
+border:3px solid black;
+
+
+}
+.xyz a{
+	color:white;
+}
+
+.a123{
+	background-color:CornflowerBlue;
+}
+.a123 h1{
+	font-size:100px;
+	color:white;
+}
+.a123 p{
+	color:pink;
+	font-size:40px;
+	font-family:serif;
+}
+.a123 img{
+	height:200px;
+	width:200px;
+}
+.b123{
+	display:flex;
+	justify-content:space-evenly;
+	background-color:LightPink;
+	
+}
+.b123 img{
+	
+	margin:20px;
+}
+.c123{
+	display:flex;
+	background-color:Black;
+	
+}
+.e123 h1,p{
+	color:white;
+	margin:25px;
+}
+.e123 h1{
+	font-size:50px;
+}
+.e123 p{
+	font-size:25px;
+}
+.d123 img {
+	border-radius:50%;
+	height:400px;
+	width:500px;
+}
+.f123{
+	display:flex;
+	background-color:DodgerBlue;
+	
+}
+.g123 img{
+border-radius:50%;
+width:500px;
+height:400px;}
+.h123 h1{
+font-size:50px;}
+.h123 p{
+	font-size:25px;
+	color:black;
+}
+.h123 h1{
+margin:20px;}
+.i123{
+	display:flex;
+	background-color:yellow;
+}
+.j123 img{
+	border-radius:50%;
+	height:400px;
+	width:500px;
+}
+.k123 h1,p{
+	margin:20px;
+}
+.k123 h1{
+	font-size:50px;
+}
+.k123 p{
+font-size:30px;
+color:black;}
+.l123{
+	display:flex;
+	background-color:purple;
+}
+.m123 img{
+	border-radius:50%;
+	width:600px;
+}
+.n123 h1{
+	margin:10px;
+}
+.n123 h1{
+	font-size:50px;
+	color:white;
+}
+.n123 p{
+	font-size:30px;
+}
+
+.x123{
+	background-color:orange;
+
+	
+}
+.y123{
+	background-color:SlateBlue;
+}
+	
+.abc1 li{
+	font-size:30px;
+	margin:40px;
+}
+.abc2 li{
+	font-size:30px;
+	margin:40px;
+}
+.abc123{
+	background-image:linear-gradient(to right,DodgerBlue,pink,white);
+}
+.abc1234 label{
+font-size:25px;
+}
+.a1243{
+	display:flex;
+	justify-content:space-between;
+}
+.az1{
+	display:flex;
+	justify-content:space-between;
+}
+button:hover{
+	background-color:red;
+	color:white;
+}
+.pqr1{
+	background-color:black;
+	height:3px;
+	width:650px;
+}
+.pqr{
+display:flex;
+justify-content:space-between;}
+.pqr2{
+	margin:-16px;
+	color:black;
+}
